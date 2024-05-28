@@ -5,7 +5,7 @@
 
 我推荐实现：
 
-```C
+```c
 // 排序算法
 void bubble_sort(int a[], int n);
 void insert_sort(int a[], int n);
