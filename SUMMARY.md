@@ -1,9 +1,9 @@
 # Summary
 
 - [序言篇](README.md)
+  - [面向读者](introduction/for_readers.md)
+  - [文章内容和结构](introduction/content_structure.md)
 - [杂谈](0-miscellaneous/README.md)
-  - [面向读者](0-miscellaneous/for_readers.md)
-  - [文章内容和结构](0-miscellaneous/content_structure.md)
   - [自学是必备的](0-miscellaneous/self_learning/README.md)
     - [为什么大学必须自学？](0-miscellaneous/self_learning/why_self_learn.md)
     - [事情怎么会变成这样？](0-miscellaneous/self_learning/how_it_happened.md)
